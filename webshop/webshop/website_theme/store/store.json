@@ -1,0 +1,20 @@
+{
+ "button_gradients": 0,
+ "button_rounded_corners": 1,
+ "button_shadows": 0,
+ "creation": "2025-02-11 17:45:54.262644",
+ "custom": 0,
+ "docstatus": 0,
+ "doctype": "Website Theme",
+ "font_properties": "wght@300;400;500;600;700;800",
+ "idx": 1,
+ "ignored_apps": [],
+ "modified": "2025-02-12 18:25:58.921370",
+ "modified_by": "Administrator",
+ "module": "Webshop",
+ "name": "store",
+ "owner": "Administrator",
+ "theme": "store",
+ "theme_scss": "$enable-shadows: false;\n$enable-gradients: false;\n$enable-rounded: true;\n\n// Bootstrap Variable Overrides\n\n\n// Import themes from installed apps\n@import \"frappe/public/scss/website.bundle\";\n@import \"erpnext/public/scss/website\";\n@import \"axion/public/scss/website\";\n\n\n\n// Custom Theme\n\n\n:root {\n\t}\n",
+ "theme_url": "/files/website_theme/store_style.css"
+}
